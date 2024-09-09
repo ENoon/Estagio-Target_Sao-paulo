@@ -1,0 +1,15 @@
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\bin\Debug\net7.0\InverterCaracteres.exe
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\bin\Debug\net7.0\InverterCaracteres.deps.json
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\bin\Debug\net7.0\InverterCaracteres.runtimeconfig.json
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\bin\Debug\net7.0\InverterCaracteres.dll
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\bin\Debug\net7.0\InverterCaracteres.pdb
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\obj\Debug\net7.0\InverterCaracteres.csproj.AssemblyReference.cache
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\obj\Debug\net7.0\InverterCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\obj\Debug\net7.0\InverterCaracteres.AssemblyInfoInputs.cache
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\obj\Debug\net7.0\InverterCaracteres.AssemblyInfo.cs
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\obj\Debug\net7.0\InverterCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\obj\Debug\net7.0\InverterCaracteres.dll
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\obj\Debug\net7.0\refint\InverterCaracteres.dll
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\obj\Debug\net7.0\InverterCaracteres.pdb
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\obj\Debug\net7.0\InverterCaracteres.genruntimeconfig.cache
+C:\Users\noons\Documents\prg no vscode\C#\InverterCaracteres\InverterCaracteres\obj\Debug\net7.0\ref\InverterCaracteres.dll

@@ -1,0 +1,15 @@
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.exe
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.deps.json
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.runtimeconfig.json
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.dll
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.pdb
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.csproj.AssemblyReference.cache
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.AssemblyInfoInputs.cache
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.AssemblyInfo.cs
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.csproj.CoreCompileInputs.cache
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.dll
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\refint\FaturamentoDistribuidora.dll
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.pdb
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.genruntimeconfig.cache
+C:\Users\noons\Documents\prg no vscode\C#\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\ref\FaturamentoDistribuidora.dll

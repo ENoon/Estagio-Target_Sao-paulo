@@ -1,0 +1,15 @@
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\bin\Debug\net7.0\PercentualRepresentaçãoCadaEstado.exe
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\bin\Debug\net7.0\PercentualRepresentaçãoCadaEstado.deps.json
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\bin\Debug\net7.0\PercentualRepresentaçãoCadaEstado.runtimeconfig.json
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\bin\Debug\net7.0\PercentualRepresentaçãoCadaEstado.dll
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\bin\Debug\net7.0\PercentualRepresentaçãoCadaEstado.pdb
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\obj\Debug\net7.0\PercentualRepresentaçãoCadaEstado.csproj.AssemblyReference.cache
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\obj\Debug\net7.0\PercentualRepresentaçãoCadaEstado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\obj\Debug\net7.0\PercentualRepresentaçãoCadaEstado.AssemblyInfoInputs.cache
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\obj\Debug\net7.0\PercentualRepresentaçãoCadaEstado.AssemblyInfo.cs
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\obj\Debug\net7.0\PercentualRepresentaçãoCadaEstado.csproj.CoreCompileInputs.cache
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\obj\Debug\net7.0\PercentualRepresentaçãoCadaEstado.dll
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\obj\Debug\net7.0\refint\PercentualRepresentaçãoCadaEstado.dll
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\obj\Debug\net7.0\PercentualRepresentaçãoCadaEstado.pdb
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\obj\Debug\net7.0\PercentualRepresentaçãoCadaEstado.genruntimeconfig.cache
+C:\Users\noons\Documents\prg no vscode\C#\PercentualRepresentaçãoCadaEstado\PercentualRepresentaçãoCadaEstado\obj\Debug\net7.0\ref\PercentualRepresentaçãoCadaEstado.dll
